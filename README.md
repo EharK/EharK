@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @EharK
+- 👋 Hi, I’m Ehar Kala.
 - 👀 I’m interested in Python, CSS, HTML, graphical design & having fun along the way.
 - 🌱 I’m currently learning Web Application development in University of Tartu.
 - 💞️ I’m looking to collaborate on web design and coding overall.
