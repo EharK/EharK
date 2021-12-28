@@ -1,5 +1,6 @@
-- 👋 Hi, I’m Ehar Kala.
-- 👀 I’m interested in Python, CSS, HTML, graphical design & having fun along the way.
-- 🌱 I’m currently learning Web Application development in University of Tartu.
-- 💞️ I’m looking to collaborate on web design and coding overall.
-- 📫 How to reach me: ehar.kala@ut.ee
+- Hi, I’m Ehar Kala.
+- I’m interested in Python, CSS, HTML, graphical design & having fun along the way.
+- In addition I know somewhat of Node.js, ejs, Vue, SQL, Javascript, Java and algorithms.
+- I’m currently learning Computer Science in University of Tartu.
+-️ I’m looking to collaborate on any cool project ideas.
+- How to reach me: ehar.kala@ut.ee
