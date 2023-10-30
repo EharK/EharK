@@ -17,8 +17,8 @@ HTML, CSS, SQL etc.
 I'm a firm believer in a well-rounded life. I embrace the tranquility of music, particularly the piano and the guitar. Music is my creative outlet. 
 I've also got a soft spot for photography and video/photo editing. 
 <br/><br/><br/>
-If my profile has piqued your interest…
 
+If my profile has piqued your interest…
 …feel free to reach out. 👋
 
 <!--
