@@ -6,7 +6,7 @@ I earned my stripes as a computer science graduate from the esteemed University 
 
 ## 🏆My Work Highlights: 
 In 2021, I secured third place in a data science project on autonomous car data visualization.📈
-I've developed a user-friendly Python module for Open-EID card readers and created a crypto market research plugin (coming soon winky face). I've also built a ChatGPT-integrated web app and a calendar event planner from scratch. Code magic! 💡
+I've developed a user-friendly Python module for Open-EID card readers and created a crypto market research plugin <a href="www.sirbofi.com">Sir Bofi</a>. I've also built a ChatGPT-integrated web app and a calendar event planner from scratch. Code magic! 💡
 <br/><br/><br/>
 
 ## 💻My Tech Skills:
