@@ -1,5 +1,7 @@
 <h1 align='center'>Hi, yes, you are right!</h1>
 
+<div style="background-color: gray; padding:20px; border-radius:20px;">Amazing</div>
+
 ## 🎓A Quick Intro: 
 I earned my stripes as a computer science graduate from the esteemed University of Tartu. Presently, I hold the role of a Full Stack Engineer at Avokaado.io, where my daily endeavors revolve around the intricate art of coding and crafting innovative solutions.
 <br/><br/><br/>
